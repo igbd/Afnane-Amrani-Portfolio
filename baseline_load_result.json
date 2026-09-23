@@ -1,0 +1,194 @@
+{
+  "total_requests": 30,
+  "total_bytes": 2021596,
+  "total_mb": 1.93,
+  "by_type": {
+    "Document": 165900,
+    "Stylesheet": 121972,
+    "Image": 1461716,
+    "Script": 30149,
+    "Font": 241859
+  },
+  "requests": [
+    {
+      "url": "http://127.0.0.1:8080/",
+      "type": "Document",
+      "bytes": 165900,
+      "size_kb": 162.0
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/images/journey_photo.webp",
+      "type": "Image",
+      "bytes": 138315,
+      "size_kb": 135.1
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/flamant_hotel_reel_3.jpg",
+      "type": "Image",
+      "bytes": 128185,
+      "size_kb": 125.2
+    },
+    {
+      "url": "http://127.0.0.1:8080/styles.css?v=2.5",
+      "type": "Stylesheet",
+      "bytes": 120187,
+      "size_kb": 117.4
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/flamant_resto_reel_3.jpg",
+      "type": "Image",
+      "bytes": 117539,
+      "size_kb": 114.8
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/flamant_resto_reel_4.jpg",
+      "type": "Image",
+      "bytes": 116871,
+      "size_kb": 114.1
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/flamant_resto_reel_1.jpg",
+      "type": "Image",
+      "bytes": 98526,
+      "size_kb": 96.2
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/flamant_resto_reel_5.jpg",
+      "type": "Image",
+      "bytes": 83718,
+      "size_kb": 81.8
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/sbr_reel_3.jpg",
+      "type": "Image",
+      "bytes": 79655,
+      "size_kb": 77.8
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/images/hero_camera.webp",
+      "type": "Image",
+      "bytes": 78206,
+      "size_kb": 76.4
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/caveat/v23/Wnz6HAc5bAfYB2Q7ZjYYiAzcPA.woff2",
+      "type": "Font",
+      "bytes": 74726,
+      "size_kb": 73.0
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/flamant_resto_reel_6.jpg",
+      "type": "Image",
+      "bytes": 70365,
+      "size_kb": 68.7
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/flamant_hotel_reel_2.jpg",
+      "type": "Image",
+      "bytes": 65051,
+      "size_kb": 63.5
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/sbr_reel_2.jpg",
+      "type": "Image",
+      "bytes": 62541,
+      "size_kb": 61.1
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/sbr_reel_5.jpg",
+      "type": "Image",
+      "bytes": 61003,
+      "size_kb": 59.6
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/sbr_reel_4.jpg",
+      "type": "Image",
+      "bytes": 56292,
+      "size_kb": 55.0
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/sbr_reel_6.jpg",
+      "type": "Image",
+      "bytes": 49103,
+      "size_kb": 48.0
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/tamazing_reel_1.jpg",
+      "type": "Image",
+      "bytes": 46307,
+      "size_kb": 45.2
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/flamant_hotel_reel_1.jpg",
+      "type": "Image",
+      "bytes": 45964,
+      "size_kb": 44.9
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/flamant_resto_reel_2.jpg",
+      "type": "Image",
+      "bytes": 45597,
+      "size_kb": 44.5
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/tamazing_reel_2.jpg",
+      "type": "Image",
+      "bytes": 44889,
+      "size_kb": 43.8
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/sbr_reel_1.jpg",
+      "type": "Image",
+      "bytes": 43439,
+      "size_kb": 42.4
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFkD-vYSZviVYUb_rj3ij__anPXDTnogkk7yRZrPA.woff2",
+      "type": "Font",
+      "bytes": 39024,
+      "size_kb": 38.1
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/playfairdisplay/v40/nuFiD-vYSZviVYUb_rj3ij__anPXDTzYgEM86xQ.woff2",
+      "type": "Font",
+      "bytes": 39011,
+      "size_kb": 38.1
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3bmX5slCNuHLi8bLeY9MK7whWMhyjYqXtKky2F7g.woff2",
+      "type": "Font",
+      "bytes": 37912,
+      "size_kb": 37.0
+    },
+    {
+      "url": "http://127.0.0.1:8080/assets/work/posters/tamazing_reel_3.jpg",
+      "type": "Image",
+      "bytes": 30150,
+      "size_kb": 29.4
+    },
+    {
+      "url": "http://127.0.0.1:8080/app.js",
+      "type": "Script",
+      "bytes": 30149,
+      "size_kb": 29.4
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/plusjakartasans/v12/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yygg_vb.woff2",
+      "type": "Font",
+      "bytes": 27399,
+      "size_kb": 26.8
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/cormorantgaramond/v21/co3smX5slCNuHLi8bLeY9MK7whWMhyjYrGFEsdtdc62E6zd58jD-iNM8A_6pUKz9.woff2",
+      "type": "Font",
+      "bytes": 23787,
+      "size_kb": 23.2
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap",
+      "type": "Stylesheet",
+      "bytes": 1785,
+      "size_kb": 1.7
+    }
+  ]
+}

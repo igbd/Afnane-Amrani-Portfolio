@@ -1,0 +1,22 @@
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Giant Raw Archive Files (>100MB / unneeded for live site)
+*.zip
+portfolio_assets/
+portfolio_zip/
+assets/work/videos_masters/
+
+# Scratch & Temporary
+artifacts/
+scratch_*.html
+test_*.py
+test_*.svg
+__pycache__/
+*.pyc
+
+# Local Logs & Audit Dumps
+*.log

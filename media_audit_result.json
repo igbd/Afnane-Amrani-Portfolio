@@ -1,0 +1,2293 @@
+{
+  "total_size_mb": 383.41,
+  "ref_size_mb": 325.26,
+  "unref_size_mb": 58.15,
+  "videos": [
+    {
+      "rel_path": "assets/work/videos_masters/flamant_hotel_reel_2.mp4",
+      "file_name": "flamant_hotel_reel_2.mp4",
+      "ext": ".mp4",
+      "size_bytes": 35864831,
+      "size_mb": 34.2,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/flamant_resto_reel_4.mp4",
+      "file_name": "flamant_resto_reel_4.mp4",
+      "ext": ".mp4",
+      "size_bytes": 20129292,
+      "size_mb": 19.2,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/flamant_hotel_reel_1.mp4",
+      "file_name": "flamant_hotel_reel_1.mp4",
+      "ext": ".mp4",
+      "size_bytes": 20046403,
+      "size_mb": 19.12,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/sbr_reel_3.mp4",
+      "file_name": "sbr_reel_3.mp4",
+      "ext": ".mp4",
+      "size_bytes": 19438916,
+      "size_mb": 18.54,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/tamazing_reel_2.mp4",
+      "file_name": "tamazing_reel_2.mp4",
+      "ext": ".mp4",
+      "size_bytes": 14477799,
+      "size_mb": 13.81,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/sbr_reel_2.mp4",
+      "file_name": "sbr_reel_2.mp4",
+      "ext": ".mp4",
+      "size_bytes": 14435614,
+      "size_mb": 13.77,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/sbr_reel_6.mp4",
+      "file_name": "sbr_reel_6.mp4",
+      "ext": ".mp4",
+      "size_bytes": 14157095,
+      "size_mb": 13.5,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/tamazing_reel_1.mp4",
+      "file_name": "tamazing_reel_1.mp4",
+      "ext": ".mp4",
+      "size_bytes": 14019537,
+      "size_mb": 13.37,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/sbr_reel_5.mp4",
+      "file_name": "sbr_reel_5.mp4",
+      "ext": ".mp4",
+      "size_bytes": 13590442,
+      "size_mb": 12.96,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/flamant_resto_reel_1.mp4",
+      "file_name": "flamant_resto_reel_1.mp4",
+      "ext": ".mp4",
+      "size_bytes": 13304436,
+      "size_mb": 12.69,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/sbr_reel_1.mp4",
+      "file_name": "sbr_reel_1.mp4",
+      "ext": ".mp4",
+      "size_bytes": 13158857,
+      "size_mb": 12.55,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/flamant_resto_reel_6.mp4",
+      "file_name": "flamant_resto_reel_6.mp4",
+      "ext": ".mp4",
+      "size_bytes": 12792115,
+      "size_mb": 12.2,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/flamant_hotel_reel_3.mp4",
+      "file_name": "flamant_hotel_reel_3.mp4",
+      "ext": ".mp4",
+      "size_bytes": 12098869,
+      "size_mb": 11.54,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/sbr_reel_4.mp4",
+      "file_name": "sbr_reel_4.mp4",
+      "ext": ".mp4",
+      "size_bytes": 11763395,
+      "size_mb": 11.22,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/flamant_resto_reel_5.mp4",
+      "file_name": "flamant_resto_reel_5.mp4",
+      "ext": ".mp4",
+      "size_bytes": 11619739,
+      "size_mb": 11.08,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/flamant_hotel_reel_2.mp4",
+      "file_name": "flamant_hotel_reel_2.mp4",
+      "ext": ".mp4",
+      "size_bytes": 10461806,
+      "size_mb": 9.98,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/tamazing_reel_3.mp4",
+      "file_name": "tamazing_reel_3.mp4",
+      "ext": ".mp4",
+      "size_bytes": 8579782,
+      "size_mb": 8.18,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/flamant_resto_reel_4.mp4",
+      "file_name": "flamant_resto_reel_4.mp4",
+      "ext": ".mp4",
+      "size_bytes": 6166373,
+      "size_mb": 5.88,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/flamant_resto_reel_3.mp4",
+      "file_name": "flamant_resto_reel_3.mp4",
+      "ext": ".mp4",
+      "size_bytes": 6134393,
+      "size_mb": 5.85,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos_masters/flamant_resto_reel_2.mp4",
+      "file_name": "flamant_resto_reel_2.mp4",
+      "ext": ".mp4",
+      "size_bytes": 4875251,
+      "size_mb": 4.65,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/sbr_reel_3.mp4",
+      "file_name": "sbr_reel_3.mp4",
+      "ext": ".mp4",
+      "size_bytes": 4581217,
+      "size_mb": 4.37,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/flamant_hotel_reel_1.mp4",
+      "file_name": "flamant_hotel_reel_1.mp4",
+      "ext": ".mp4",
+      "size_bytes": 4458544,
+      "size_mb": 4.25,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/flamant_resto_reel_1.mp4",
+      "file_name": "flamant_resto_reel_1.mp4",
+      "ext": ".mp4",
+      "size_bytes": 3851956,
+      "size_mb": 3.67,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/tamazing_reel_2.mp4",
+      "file_name": "tamazing_reel_2.mp4",
+      "ext": ".mp4",
+      "size_bytes": 3749517,
+      "size_mb": 3.58,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/sbr_reel_5.mp4",
+      "file_name": "sbr_reel_5.mp4",
+      "ext": ".mp4",
+      "size_bytes": 3684239,
+      "size_mb": 3.51,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/flamant_resto_reel_6.mp4",
+      "file_name": "flamant_resto_reel_6.mp4",
+      "ext": ".mp4",
+      "size_bytes": 3145058,
+      "size_mb": 3.0,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/flamant_hotel_reel_3.mp4",
+      "file_name": "flamant_hotel_reel_3.mp4",
+      "ext": ".mp4",
+      "size_bytes": 3120690,
+      "size_mb": 2.98,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/tamazing_reel_1.mp4",
+      "file_name": "tamazing_reel_1.mp4",
+      "ext": ".mp4",
+      "size_bytes": 3029651,
+      "size_mb": 2.89,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/sbr_reel_1.mp4",
+      "file_name": "sbr_reel_1.mp4",
+      "ext": ".mp4",
+      "size_bytes": 2975682,
+      "size_mb": 2.84,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/flamant_resto_reel_5.mp4",
+      "file_name": "flamant_resto_reel_5.mp4",
+      "ext": ".mp4",
+      "size_bytes": 2927291,
+      "size_mb": 2.79,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/sbr_reel_6.mp4",
+      "file_name": "sbr_reel_6.mp4",
+      "ext": ".mp4",
+      "size_bytes": 2918646,
+      "size_mb": 2.78,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/tamazing_reel_3.mp4",
+      "file_name": "tamazing_reel_3.mp4",
+      "ext": ".mp4",
+      "size_bytes": 2750086,
+      "size_mb": 2.62,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/sbr_reel_2.mp4",
+      "file_name": "sbr_reel_2.mp4",
+      "ext": ".mp4",
+      "size_bytes": 2695342,
+      "size_mb": 2.57,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/sbr_reel_4.mp4",
+      "file_name": "sbr_reel_4.mp4",
+      "ext": ".mp4",
+      "size_bytes": 2127695,
+      "size_mb": 2.03,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/flamant_resto_reel_3.mp4",
+      "file_name": "flamant_resto_reel_3.mp4",
+      "ext": ".mp4",
+      "size_bytes": 1900250,
+      "size_mb": 1.81,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/videos/flamant_resto_reel_2.mp4",
+      "file_name": "flamant_resto_reel_2.mp4",
+      "ext": ".mp4",
+      "size_bytes": 1521447,
+      "size_mb": 1.45,
+      "dims": null,
+      "is_referenced": true
+    }
+  ],
+  "images": [
+    {
+      "rel_path": "assets/work/images/tamazing_full_landing_page.webp",
+      "file_name": "tamazing_full_landing_page.webp",
+      "ext": ".webp",
+      "size_bytes": 353190,
+      "size_mb": 0.34,
+      "dims": [
+        1200,
+        7782
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/journey_photo.jpg",
+      "file_name": "journey_photo.jpg",
+      "ext": ".jpg",
+      "size_bytes": 231574,
+      "size_mb": 0.22,
+      "dims": [
+        768,
+        1024
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_6.webp",
+      "file_name": "frr_food_6.webp",
+      "ext": ".webp",
+      "size_bytes": 210054,
+      "size_mb": 0.2,
+      "dims": [
+        800,
+        1200
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/recommendations/letter_01_hand_in_hand.webp",
+      "file_name": "letter_01_hand_in_hand.webp",
+      "ext": ".webp",
+      "size_bytes": 203578,
+      "size_mb": 0.19,
+      "dims": [
+        935,
+        1400
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/sbr_post_4.webp",
+      "file_name": "sbr_post_4.webp",
+      "ext": ".webp",
+      "size_bytes": 152466,
+      "size_mb": 0.15,
+      "dims": [
+        900,
+        1125
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/recommendations/letter_02_aiesec.webp",
+      "file_name": "letter_02_aiesec.webp",
+      "ext": ".webp",
+      "size_bytes": 141688,
+      "size_mb": 0.14,
+      "dims": [
+        989,
+        1400
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/journey_photo.webp",
+      "file_name": "journey_photo.webp",
+      "ext": ".webp",
+      "size_bytes": 138104,
+      "size_mb": 0.13,
+      "dims": [
+        768,
+        1024
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_feed.webp",
+      "file_name": "tamazing_feed.webp",
+      "ext": ".webp",
+      "size_bytes": 132824,
+      "size_mb": 0.13,
+      "dims": [
+        782,
+        1600
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_2.webp",
+      "file_name": "frr_food_2.webp",
+      "ext": ".webp",
+      "size_bytes": 131820,
+      "size_mb": 0.13,
+      "dims": [
+        800,
+        1200
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/recommendations/letter_04_tamazing.webp",
+      "file_name": "letter_04_tamazing.webp",
+      "ext": ".webp",
+      "size_bytes": 130422,
+      "size_mb": 0.12,
+      "dims": [
+        981,
+        1400
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/flamant_hotel_reel_3.jpg",
+      "file_name": "flamant_hotel_reel_3.jpg",
+      "ext": ".jpg",
+      "size_bytes": 127974,
+      "size_mb": 0.12,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_9.webp",
+      "file_name": "frr_food_9.webp",
+      "ext": ".webp",
+      "size_bytes": 124974,
+      "size_mb": 0.12,
+      "dims": [
+        800,
+        1200
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/flamant_resto_reel_3.jpg",
+      "file_name": "flamant_resto_reel_3.jpg",
+      "ext": ".jpg",
+      "size_bytes": 117328,
+      "size_mb": 0.11,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/flamant_resto_reel_4.jpg",
+      "file_name": "flamant_resto_reel_4.jpg",
+      "ext": ".jpg",
+      "size_bytes": 116660,
+      "size_mb": 0.11,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/recommendations/letter_03_dar_essaki.webp",
+      "file_name": "letter_03_dar_essaki.webp",
+      "ext": ".webp",
+      "size_bytes": 115584,
+      "size_mb": 0.11,
+      "dims": [
+        958,
+        1400
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/afnane_portrait.jpg",
+      "file_name": "afnane_portrait.jpg",
+      "ext": ".jpg",
+      "size_bytes": 108628,
+      "size_mb": 0.1,
+      "dims": [
+        768,
+        1024
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_1.webp",
+      "file_name": "frr_food_1.webp",
+      "ext": ".webp",
+      "size_bytes": 105400,
+      "size_mb": 0.1,
+      "dims": [
+        800,
+        1200
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/sbr_post_1.webp",
+      "file_name": "sbr_post_1.webp",
+      "ext": ".webp",
+      "size_bytes": 105114,
+      "size_mb": 0.1,
+      "dims": [
+        900,
+        1125
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/flamant_resto_reel_1.jpg",
+      "file_name": "flamant_resto_reel_1.jpg",
+      "ext": ".jpg",
+      "size_bytes": 98316,
+      "size_mb": 0.09,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/recommendations/letter_05_zarrouk_film.webp",
+      "file_name": "letter_05_zarrouk_film.webp",
+      "ext": ".webp",
+      "size_bytes": 96810,
+      "size_mb": 0.09,
+      "dims": [
+        989,
+        1400
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/flamant_resto_reel_5.jpg",
+      "file_name": "flamant_resto_reel_5.jpg",
+      "ext": ".jpg",
+      "size_bytes": 83508,
+      "size_mb": 0.08,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/sbr_reel_3.jpg",
+      "file_name": "sbr_reel_3.jpg",
+      "ext": ".jpg",
+      "size_bytes": 79445,
+      "size_mb": 0.08,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/hero_camera.webp",
+      "file_name": "hero_camera.webp",
+      "ext": ".webp",
+      "size_bytes": 77996,
+      "size_mb": 0.07,
+      "dims": [
+        768,
+        1024
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/sbr_dash_profile.webp",
+      "file_name": "sbr_dash_profile.webp",
+      "ext": ".webp",
+      "size_bytes": 77902,
+      "size_mb": 0.07,
+      "dims": [
+        1170,
+        1178
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_8.webp",
+      "file_name": "frr_food_8.webp",
+      "ext": ".webp",
+      "size_bytes": 76386,
+      "size_mb": 0.07,
+      "dims": [
+        800,
+        1200
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/flamant_hotel_ad_photo.webp",
+      "file_name": "flamant_hotel_ad_photo.webp",
+      "ext": ".webp",
+      "size_bytes": 75584,
+      "size_mb": 0.07,
+      "dims": [
+        974,
+        1300
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/sbr_post_3.webp",
+      "file_name": "sbr_post_3.webp",
+      "ext": ".webp",
+      "size_bytes": 75528,
+      "size_mb": 0.07,
+      "dims": [
+        900,
+        1125
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_5.webp",
+      "file_name": "frr_food_5.webp",
+      "ext": ".webp",
+      "size_bytes": 75354,
+      "size_mb": 0.07,
+      "dims": [
+        800,
+        1200
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/flamant_resto_reel_6.jpg",
+      "file_name": "flamant_resto_reel_6.jpg",
+      "ext": ".jpg",
+      "size_bytes": 70155,
+      "size_mb": 0.07,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/flamant_hotel_reel_2.jpg",
+      "file_name": "flamant_hotel_reel_2.jpg",
+      "ext": ".jpg",
+      "size_bytes": 64841,
+      "size_mb": 0.06,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_brand.webp",
+      "file_name": "tamazing_brand.webp",
+      "ext": ".webp",
+      "size_bytes": 62854,
+      "size_mb": 0.06,
+      "dims": [
+        1170,
+        1083
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_4.webp",
+      "file_name": "frr_food_4.webp",
+      "ext": ".webp",
+      "size_bytes": 62556,
+      "size_mb": 0.06,
+      "dims": [
+        800,
+        1200
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/sbr_reel_2.jpg",
+      "file_name": "sbr_reel_2.jpg",
+      "ext": ".jpg",
+      "size_bytes": 62331,
+      "size_mb": 0.06,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/sbr_reel_5.jpg",
+      "file_name": "sbr_reel_5.jpg",
+      "ext": ".jpg",
+      "size_bytes": 60793,
+      "size_mb": 0.06,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/sbr_post_2.webp",
+      "file_name": "sbr_post_2.webp",
+      "ext": ".webp",
+      "size_bytes": 56102,
+      "size_mb": 0.05,
+      "dims": [
+        900,
+        1125
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/sbr_reel_4.jpg",
+      "file_name": "sbr_reel_4.jpg",
+      "ext": ".jpg",
+      "size_bytes": 56082,
+      "size_mb": 0.05,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_3.webp",
+      "file_name": "frr_food_3.webp",
+      "ext": ".webp",
+      "size_bytes": 55008,
+      "size_mb": 0.05,
+      "dims": [
+        800,
+        1200
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_7.webp",
+      "file_name": "frr_food_7.webp",
+      "ext": ".webp",
+      "size_bytes": 50402,
+      "size_mb": 0.05,
+      "dims": [
+        800,
+        1200
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_bts_3.webp",
+      "file_name": "tamazing_bts_3.webp",
+      "ext": ".webp",
+      "size_bytes": 50294,
+      "size_mb": 0.05,
+      "dims": [
+        854,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/sbr_reel_6.jpg",
+      "file_name": "sbr_reel_6.jpg",
+      "ext": ".jpg",
+      "size_bytes": 48893,
+      "size_mb": 0.05,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/tamazing_reel_1.jpg",
+      "file_name": "tamazing_reel_1.jpg",
+      "ext": ".jpg",
+      "size_bytes": 46097,
+      "size_mb": 0.04,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/flamant_hotel_reel_1.jpg",
+      "file_name": "flamant_hotel_reel_1.jpg",
+      "ext": ".jpg",
+      "size_bytes": 45754,
+      "size_mb": 0.04,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/flamant_resto_reel_2.jpg",
+      "file_name": "flamant_resto_reel_2.jpg",
+      "ext": ".jpg",
+      "size_bytes": 45387,
+      "size_mb": 0.04,
+      "dims": [
+        480,
+        854
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/tamazing_reel_2.jpg",
+      "file_name": "tamazing_reel_2.jpg",
+      "ext": ".jpg",
+      "size_bytes": 44679,
+      "size_mb": 0.04,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/sbr_reel_1.jpg",
+      "file_name": "sbr_reel_1.jpg",
+      "ext": ".jpg",
+      "size_bytes": 43229,
+      "size_mb": 0.04,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/sbr_fiche_etablissement.webp",
+      "file_name": "sbr_fiche_etablissement.webp",
+      "ext": ".webp",
+      "size_bytes": 38496,
+      "size_mb": 0.04,
+      "dims": [
+        1200,
+        372
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/sbr_dash_stats_breakdown.webp",
+      "file_name": "sbr_dash_stats_breakdown.webp",
+      "ext": ".webp",
+      "size_bytes": 34290,
+      "size_mb": 0.03,
+      "dims": [
+        625,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/sbr_avis_client.webp",
+      "file_name": "sbr_avis_client.webp",
+      "ext": ".webp",
+      "size_bytes": 33608,
+      "size_mb": 0.03,
+      "dims": [
+        833,
+        815
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/afnane_portrait.webp",
+      "file_name": "afnane_portrait.webp",
+      "ext": ".webp",
+      "size_bytes": 30734,
+      "size_mb": 0.03,
+      "dims": [
+        768,
+        1024
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_statistics.webp",
+      "file_name": "tamazing_statistics.webp",
+      "ext": ".webp",
+      "size_bytes": 30356,
+      "size_mb": 0.03,
+      "dims": [
+        627,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/posters/tamazing_reel_3.jpg",
+      "file_name": "tamazing_reel_3.jpg",
+      "ext": ".jpg",
+      "size_bytes": 29940,
+      "size_mb": 0.03,
+      "dims": [
+        720,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_bts_4.webp",
+      "file_name": "tamazing_bts_4.webp",
+      "ext": ".webp",
+      "size_bytes": 27856,
+      "size_mb": 0.03,
+      "dims": [
+        854,
+        1280
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/sbr_dash_views_1m.webp",
+      "file_name": "sbr_dash_views_1m.webp",
+      "ext": ".webp",
+      "size_bytes": 25208,
+      "size_mb": 0.02,
+      "dims": [
+        1170,
+        1205
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/sbr_google_ads.webp",
+      "file_name": "sbr_google_ads.webp",
+      "ext": ".webp",
+      "size_bytes": 19592,
+      "size_mb": 0.02,
+      "dims": [
+        989,
+        402
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/work/images/flamant_rose_avatar.png",
+      "file_name": "flamant_rose_avatar.png",
+      "ext": ".png",
+      "size_bytes": 12828,
+      "size_mb": 0.01,
+      "dims": [
+        95,
+        95
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/logos/logo_lamhold.png",
+      "file_name": "logo_lamhold.png",
+      "ext": ".png",
+      "size_bytes": 9445,
+      "size_mb": 0.01,
+      "dims": [
+        163,
+        103
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/logos/logo_daoust.png",
+      "file_name": "logo_daoust.png",
+      "ext": ".png",
+      "size_bytes": 6973,
+      "size_mb": 0.01,
+      "dims": [
+        163,
+        103
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/logos/logo_suites.png",
+      "file_name": "logo_suites.png",
+      "ext": ".png",
+      "size_bytes": 6720,
+      "size_mb": 0.01,
+      "dims": [
+        163,
+        103
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/logos/logo_sanilux.png",
+      "file_name": "logo_sanilux.png",
+      "ext": ".png",
+      "size_bytes": 6192,
+      "size_mb": 0.01,
+      "dims": [
+        163,
+        103
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/logos/logo_moussa.png",
+      "file_name": "logo_moussa.png",
+      "ext": ".png",
+      "size_bytes": 4776,
+      "size_mb": 0.0,
+      "dims": [
+        163,
+        103
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/logos/logo_tamazing.png",
+      "file_name": "logo_tamazing.png",
+      "ext": ".png",
+      "size_bytes": 4196,
+      "size_mb": 0.0,
+      "dims": [
+        163,
+        103
+      ],
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/images/testimonial_avatar.png",
+      "file_name": "testimonial_avatar.png",
+      "ext": ".png",
+      "size_bytes": 1548,
+      "size_mb": 0.0,
+      "dims": [
+        35,
+        35
+      ],
+      "is_referenced": true
+    }
+  ],
+  "pdfs": [
+    {
+      "rel_path": "assets/documents/recommendations/letter_04_tamazing.pdf",
+      "file_name": "letter_04_tamazing.pdf",
+      "ext": ".pdf",
+      "size_bytes": 5086370,
+      "size_mb": 4.85,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/documents/recommendations/letter_03_dar_essaki.pdf",
+      "file_name": "letter_03_dar_essaki.pdf",
+      "ext": ".pdf",
+      "size_bytes": 2881192,
+      "size_mb": 2.75,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/documents/recommendations/letter_05_zarrouk_film.pdf",
+      "file_name": "letter_05_zarrouk_film.pdf",
+      "ext": ".pdf",
+      "size_bytes": 935095,
+      "size_mb": 0.89,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/documents/recommendations/letter_01_hand_in_hand.pdf",
+      "file_name": "letter_01_hand_in_hand.pdf",
+      "ext": ".pdf",
+      "size_bytes": 718001,
+      "size_mb": 0.68,
+      "dims": null,
+      "is_referenced": true
+    },
+    {
+      "rel_path": "assets/documents/recommendations/letter_02_aiesec.pdf",
+      "file_name": "letter_02_aiesec.pdf",
+      "ext": ".pdf",
+      "size_bytes": 72175,
+      "size_mb": 0.07,
+      "dims": null,
+      "is_referenced": true
+    }
+  ],
+  "unreferenced": [
+    {
+      "rel_path": "assets/work/documents/tamazing_morocco_landing_page.pdf",
+      "file_name": "tamazing_morocco_landing_page.pdf",
+      "ext": ".pdf",
+      "size_bytes": 22808402,
+      "size_mb": 21.75,
+      "dims": null,
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/videos/marrakech_reel.webm",
+      "file_name": "marrakech_reel.webm",
+      "ext": ".webm",
+      "size_bytes": 5261118,
+      "size_mb": 5.02,
+      "dims": null,
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/recommendations/letter_03_dar_essaki.png",
+      "file_name": "letter_03_dar_essaki.png",
+      "ext": ".png",
+      "size_bytes": 2088271,
+      "size_mb": 1.99,
+      "dims": [
+        958,
+        1400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/recommendations/MAISON D_HOTE DAR ESSAKI.pdf.png",
+      "file_name": "MAISON D_HOTE DAR ESSAKI.pdf.png",
+      "ext": ".png",
+      "size_bytes": 2088271,
+      "size_mb": 1.99,
+      "dims": [
+        958,
+        1400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/recommendations/letter_04_tamazing.png",
+      "file_name": "letter_04_tamazing.png",
+      "ext": ".png",
+      "size_bytes": 2013881,
+      "size_mb": 1.92,
+      "dims": [
+        981,
+        1400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/recommendations/TAMAZING.pdf.png",
+      "file_name": "TAMAZING.pdf.png",
+      "ext": ".png",
+      "size_bytes": 2013881,
+      "size_mb": 1.92,
+      "dims": [
+        981,
+        1400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/recommendations/HAND IN HAND - VOLUNTEERING EXPERIENCE.pdf.png",
+      "file_name": "HAND IN HAND - VOLUNTEERING EXPERIENCE.pdf.png",
+      "ext": ".png",
+      "size_bytes": 1046677,
+      "size_mb": 1.0,
+      "dims": [
+        935,
+        1400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/recommendations/letter_01_hand_in_hand.png",
+      "file_name": "letter_01_hand_in_hand.png",
+      "ext": ".png",
+      "size_bytes": 1046677,
+      "size_mb": 1.0,
+      "dims": [
+        935,
+        1400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_6.jpg",
+      "file_name": "frr_food_6.jpg",
+      "ext": ".jpg",
+      "size_bytes": 1044671,
+      "size_mb": 1.0,
+      "dims": [
+        1600,
+        2400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/journey_photo.png",
+      "file_name": "journey_photo.png",
+      "ext": ".png",
+      "size_bytes": 1014885,
+      "size_mb": 0.97,
+      "dims": [
+        768,
+        1024
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/architecture_raw_before.jpg",
+      "file_name": "architecture_raw_before.jpg",
+      "ext": ".jpg",
+      "size_bytes": 965084,
+      "size_mb": 0.92,
+      "dims": [
+        1376,
+        768
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_10.jpg",
+      "file_name": "frr_food_10.jpg",
+      "ext": ".jpg",
+      "size_bytes": 767520,
+      "size_mb": 0.73,
+      "dims": [
+        1600,
+        2400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/architecture_luxury_after.jpg",
+      "file_name": "architecture_luxury_after.jpg",
+      "ext": ".jpg",
+      "size_bytes": 743452,
+      "size_mb": 0.71,
+      "dims": [
+        1376,
+        768
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/tamazing-morocco-mobile.png",
+      "file_name": "tamazing-morocco-mobile.png",
+      "ext": ".png",
+      "size_bytes": 741008,
+      "size_mb": 0.71,
+      "dims": [
+        815,
+        1600
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_mobile_preview.png",
+      "file_name": "tamazing_mobile_preview.png",
+      "ext": ".png",
+      "size_bytes": 741008,
+      "size_mb": 0.71,
+      "dims": [
+        815,
+        1600
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_9.jpg",
+      "file_name": "frr_food_9.jpg",
+      "ext": ".jpg",
+      "size_bytes": 629652,
+      "size_mb": 0.6,
+      "dims": [
+        1600,
+        2400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_2.jpg",
+      "file_name": "frr_food_2.jpg",
+      "ext": ".jpg",
+      "size_bytes": 624433,
+      "size_mb": 0.6,
+      "dims": [
+        1600,
+        2400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_full_landing_page.jpg",
+      "file_name": "tamazing_full_landing_page.jpg",
+      "ext": ".jpg",
+      "size_bytes": 612330,
+      "size_mb": 0.58,
+      "dims": [
+        1200,
+        7782
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/sbr_dashboard_combined.png",
+      "file_name": "sbr_dashboard_combined.png",
+      "ext": ".png",
+      "size_bytes": 561679,
+      "size_mb": 0.54,
+      "dims": [
+        1024,
+        456
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/suites-instagram-profile.png",
+      "file_name": "suites-instagram-profile.png",
+      "ext": ".png",
+      "size_bytes": 556926,
+      "size_mb": 0.53,
+      "dims": [
+        1170,
+        1178
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/sbr_dash_profile.png",
+      "file_name": "sbr_dash_profile.png",
+      "ext": ".png",
+      "size_bytes": 556926,
+      "size_mb": 0.53,
+      "dims": [
+        1170,
+        1178
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_5.jpg",
+      "file_name": "frr_food_5.jpg",
+      "ext": ".jpg",
+      "size_bytes": 550290,
+      "size_mb": 0.52,
+      "dims": [
+        1600,
+        2400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_1.jpg",
+      "file_name": "frr_food_1.jpg",
+      "ext": ".jpg",
+      "size_bytes": 543807,
+      "size_mb": 0.52,
+      "dims": [
+        1600,
+        2400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/pdf_p2__X16.png",
+      "file_name": "pdf_p2__X16.png",
+      "ext": ".png",
+      "size_bytes": 505824,
+      "size_mb": 0.48,
+      "dims": [
+        1170,
+        1178
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_8.jpg",
+      "file_name": "frr_food_8.jpg",
+      "ext": ".jpg",
+      "size_bytes": 494524,
+      "size_mb": 0.47,
+      "dims": [
+        1600,
+        2400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_3.jpg",
+      "file_name": "frr_food_3.jpg",
+      "ext": ".jpg",
+      "size_bytes": 478095,
+      "size_mb": 0.46,
+      "dims": [
+        1600,
+        2400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/2804a6cb28073a1eb1d25308c1aeff59.png",
+      "file_name": "2804a6cb28073a1eb1d25308c1aeff59.png",
+      "ext": ".png",
+      "size_bytes": 471613,
+      "size_mb": 0.45,
+      "dims": [
+        768,
+        1024
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/documents/tamazing_morocco_landing_page_optimized.pdf",
+      "file_name": "tamazing_morocco_landing_page_optimized.pdf",
+      "ext": ".pdf",
+      "size_bytes": 463522,
+      "size_mb": 0.44,
+      "dims": null,
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_storefront_complete.jpg",
+      "file_name": "tamazing_storefront_complete.jpg",
+      "ext": ".jpg",
+      "size_bytes": 455791,
+      "size_mb": 0.43,
+      "dims": [
+        1200,
+        5200
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/sbr_post_4.jpg",
+      "file_name": "sbr_post_4.jpg",
+      "ext": ".jpg",
+      "size_bytes": 413789,
+      "size_mb": 0.39,
+      "dims": [
+        1400,
+        1750
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_7.jpg",
+      "file_name": "frr_food_7.jpg",
+      "ext": ".jpg",
+      "size_bytes": 410534,
+      "size_mb": 0.39,
+      "dims": [
+        1600,
+        2400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/frr_food_4.jpg",
+      "file_name": "frr_food_4.jpg",
+      "ext": ".jpg",
+      "size_bytes": 399416,
+      "size_mb": 0.38,
+      "dims": [
+        1600,
+        2400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/afnane_portrait.png",
+      "file_name": "afnane_portrait.png",
+      "ext": ".png",
+      "size_bytes": 345507,
+      "size_mb": 0.33,
+      "dims": [
+        736,
+        981
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/recommendations/ZARROUK FILM.pdf.png",
+      "file_name": "ZARROUK FILM.pdf.png",
+      "ext": ".png",
+      "size_bytes": 322877,
+      "size_mb": 0.31,
+      "dims": [
+        989,
+        1400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/recommendations/letter_05_zarrouk_film.png",
+      "file_name": "letter_05_zarrouk_film.png",
+      "ext": ".png",
+      "size_bytes": 322877,
+      "size_mb": 0.31,
+      "dims": [
+        989,
+        1400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/sbr_post_1.jpg",
+      "file_name": "sbr_post_1.jpg",
+      "ext": ".jpg",
+      "size_bytes": 304681,
+      "size_mb": 0.29,
+      "dims": [
+        1400,
+        1750
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_storefront_complete.webp",
+      "file_name": "tamazing_storefront_complete.webp",
+      "ext": ".webp",
+      "size_bytes": 291962,
+      "size_mb": 0.28,
+      "dims": [
+        1200,
+        5200
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/sbr_post_3.jpg",
+      "file_name": "sbr_post_3.jpg",
+      "ext": ".jpg",
+      "size_bytes": 269792,
+      "size_mb": 0.26,
+      "dims": [
+        1400,
+        1750
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/afnane_icon.png",
+      "file_name": "afnane_icon.png",
+      "ext": ".png",
+      "size_bytes": 253528,
+      "size_mb": 0.24,
+      "dims": [
+        1261,
+        1247
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/analytics-instagram-reels.png",
+      "file_name": "analytics-instagram-reels.png",
+      "ext": ".png",
+      "size_bytes": 242335,
+      "size_mb": 0.23,
+      "dims": [
+        625,
+        1280
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/sbr_dash_stats_breakdown.png",
+      "file_name": "sbr_dash_stats_breakdown.png",
+      "ext": ".png",
+      "size_bytes": 242335,
+      "size_mb": 0.23,
+      "dims": [
+        625,
+        1280
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/moussa_profile_analytics.png",
+      "file_name": "moussa_profile_analytics.png",
+      "ext": ".png",
+      "size_bytes": 242335,
+      "size_mb": 0.23,
+      "dims": [
+        625,
+        1280
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/analytics-views-1m.png",
+      "file_name": "analytics-views-1m.png",
+      "ext": ".png",
+      "size_bytes": 230595,
+      "size_mb": 0.22,
+      "dims": [
+        1170,
+        1205
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/sbr_dash_views_1m.png",
+      "file_name": "sbr_dash_views_1m.png",
+      "ext": ".png",
+      "size_bytes": 230595,
+      "size_mb": 0.22,
+      "dims": [
+        1170,
+        1205
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/moussa_views_analytics.png",
+      "file_name": "moussa_views_analytics.png",
+      "ext": ".png",
+      "size_bytes": 230595,
+      "size_mb": 0.22,
+      "dims": [
+        1170,
+        1205
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/flamant_hotel_ad_photo.jpg",
+      "file_name": "flamant_hotel_ad_photo.jpg",
+      "ext": ".jpg",
+      "size_bytes": 227302,
+      "size_mb": 0.22,
+      "dims": [
+        974,
+        1300
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/recommendations/AIESEC RL.pdf.png",
+      "file_name": "AIESEC RL.pdf.png",
+      "ext": ".png",
+      "size_bytes": 221144,
+      "size_mb": 0.21,
+      "dims": [
+        989,
+        1400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/recommendations/letter_02_aiesec.png",
+      "file_name": "letter_02_aiesec.png",
+      "ext": ".png",
+      "size_bytes": 221144,
+      "size_mb": 0.21,
+      "dims": [
+        989,
+        1400
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/pdf_p2__X15.png",
+      "file_name": "pdf_p2__X15.png",
+      "ext": ".png",
+      "size_bytes": 217463,
+      "size_mb": 0.21,
+      "dims": [
+        625,
+        1280
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/sbr_post_2.jpg",
+      "file_name": "sbr_post_2.jpg",
+      "ext": ".jpg",
+      "size_bytes": 203690,
+      "size_mb": 0.19,
+      "dims": [
+        1400,
+        1750
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/pdf_p2__X13.png",
+      "file_name": "pdf_p2__X13.png",
+      "ext": ".png",
+      "size_bytes": 182482,
+      "size_mb": 0.17,
+      "dims": [
+        1170,
+        1205
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_feed.jpg",
+      "file_name": "tamazing_feed.jpg",
+      "ext": ".jpg",
+      "size_bytes": 179504,
+      "size_mb": 0.17,
+      "dims": [
+        782,
+        1600
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/hero_arch_card.png",
+      "file_name": "hero_arch_card.png",
+      "ext": ".png",
+      "size_bytes": 172475,
+      "size_mb": 0.16,
+      "dims": [
+        280,
+        420
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_bts_1.jpg",
+      "file_name": "tamazing_bts_1.jpg",
+      "ext": ".jpg",
+      "size_bytes": 168276,
+      "size_mb": 0.16,
+      "dims": [
+        960,
+        1280
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/hero_camera.jpg",
+      "file_name": "hero_camera.jpg",
+      "ext": ".jpg",
+      "size_bytes": 161812,
+      "size_mb": 0.15,
+      "dims": [
+        768,
+        1024
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_full_storefront.jpg",
+      "file_name": "tamazing_full_storefront.jpg",
+      "ext": ".jpg",
+      "size_bytes": 154729,
+      "size_mb": 0.15,
+      "dims": [
+        1272,
+        6800
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_bts_2.jpg",
+      "file_name": "tamazing_bts_2.jpg",
+      "ext": ".jpg",
+      "size_bytes": 147384,
+      "size_mb": 0.14,
+      "dims": [
+        960,
+        1280
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/flamant_hotel_story.jpg",
+      "file_name": "flamant_hotel_story.jpg",
+      "ext": ".jpg",
+      "size_bytes": 138719,
+      "size_mb": 0.13,
+      "dims": [
+        974,
+        1600
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/hero_progress_card.png",
+      "file_name": "hero_progress_card.png",
+      "ext": ".png",
+      "size_bytes": 137920,
+      "size_mb": 0.13,
+      "dims": [
+        330,
+        340
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/sbr_dashboard.jpg",
+      "file_name": "sbr_dashboard.jpg",
+      "ext": ".jpg",
+      "size_bytes": 124080,
+      "size_mb": 0.12,
+      "dims": [
+        1170,
+        1178
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/hero_growth_card.png",
+      "file_name": "hero_growth_card.png",
+      "ext": ".png",
+      "size_bytes": 119505,
+      "size_mb": 0.11,
+      "dims": [
+        400,
+        260
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_brand.jpg",
+      "file_name": "tamazing_brand.jpg",
+      "ext": ".jpg",
+      "size_bytes": 109921,
+      "size_mb": 0.1,
+      "dims": [
+        1170,
+        1083
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/hero_tools_card.png",
+      "file_name": "hero_tools_card.png",
+      "ext": ".png",
+      "size_bytes": 109173,
+      "size_mb": 0.1,
+      "dims": [
+        440,
+        210
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_storefront_scroll.jpg",
+      "file_name": "tamazing_storefront_scroll.jpg",
+      "ext": ".jpg",
+      "size_bytes": 103862,
+      "size_mb": 0.1,
+      "dims": [
+        1200,
+        4500
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/sbr_fiche_etablissement.jpg",
+      "file_name": "sbr_fiche_etablissement.jpg",
+      "ext": ".jpg",
+      "size_bytes": 102355,
+      "size_mb": 0.1,
+      "dims": [
+        1600,
+        496
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/suites_main.png",
+      "file_name": "suites_main.png",
+      "ext": ".png",
+      "size_bytes": 101902,
+      "size_mb": 0.1,
+      "dims": [
+        290,
+        195
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/hero_note.png",
+      "file_name": "hero_note.png",
+      "ext": ".png",
+      "size_bytes": 99958,
+      "size_mb": 0.1,
+      "dims": [
+        300,
+        270
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_bts_3.jpg",
+      "file_name": "tamazing_bts_3.jpg",
+      "ext": ".jpg",
+      "size_bytes": 74501,
+      "size_mb": 0.07,
+      "dims": [
+        854,
+        1280
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/suites-google-profile.jpg",
+      "file_name": "suites-google-profile.jpg",
+      "ext": ".jpg",
+      "size_bytes": 73592,
+      "size_mb": 0.07,
+      "dims": [
+        1600,
+        496
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/pdf_p3__X25.png",
+      "file_name": "pdf_p3__X25.png",
+      "ext": ".png",
+      "size_bytes": 73587,
+      "size_mb": 0.07,
+      "dims": [
+        1600,
+        496
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/sbr_statistics.jpg",
+      "file_name": "sbr_statistics.jpg",
+      "ext": ".jpg",
+      "size_bytes": 61116,
+      "size_mb": 0.06,
+      "dims": [
+        625,
+        1280
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/sbr_avis_client.jpg",
+      "file_name": "sbr_avis_client.jpg",
+      "ext": ".jpg",
+      "size_bytes": 60110,
+      "size_mb": 0.06,
+      "dims": [
+        833,
+        815
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/afnane_portrait_old.png",
+      "file_name": "afnane_portrait_old.png",
+      "ext": ".png",
+      "size_bytes": 58229,
+      "size_mb": 0.06,
+      "dims": [
+        185,
+        245
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/sbr_organic_leads.jpg",
+      "file_name": "sbr_organic_leads.jpg",
+      "ext": ".jpg",
+      "size_bytes": 56271,
+      "size_mb": 0.05,
+      "dims": [
+        1170,
+        1205
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_statistics.jpg",
+      "file_name": "tamazing_statistics.jpg",
+      "ext": ".jpg",
+      "size_bytes": 55820,
+      "size_mb": 0.05,
+      "dims": [
+        627,
+        1280
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/tamazing_bts_4.jpg",
+      "file_name": "tamazing_bts_4.jpg",
+      "ext": ".jpg",
+      "size_bytes": 51179,
+      "size_mb": 0.05,
+      "dims": [
+        854,
+        1280
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/pdf_p3__X27.png",
+      "file_name": "pdf_p3__X27.png",
+      "ext": ".png",
+      "size_bytes": 47878,
+      "size_mb": 0.05,
+      "dims": [
+        833,
+        815
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/suites-google-review.jpg",
+      "file_name": "suites-google-review.jpg",
+      "ext": ".jpg",
+      "size_bytes": 47837,
+      "size_mb": 0.05,
+      "dims": [
+        833,
+        815
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/sbr_google_ads.jpg",
+      "file_name": "sbr_google_ads.jpg",
+      "ext": ".jpg",
+      "size_bytes": 34793,
+      "size_mb": 0.03,
+      "dims": [
+        989,
+        402
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/suites-google-ads.jpg",
+      "file_name": "suites-google-ads.jpg",
+      "ext": ".jpg",
+      "size_bytes": 27552,
+      "size_mb": 0.03,
+      "dims": [
+        989,
+        402
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/work/images/pdf_p3__X26.png",
+      "file_name": "pdf_p3__X26.png",
+      "ext": ".png",
+      "size_bytes": 27401,
+      "size_mb": 0.03,
+      "dims": [
+        989,
+        402
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/hero_stat_icon.png",
+      "file_name": "hero_stat_icon.png",
+      "ext": ".png",
+      "size_bytes": 21866,
+      "size_mb": 0.02,
+      "dims": [
+        140,
+        140
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/suites_thumb3.png",
+      "file_name": "suites_thumb3.png",
+      "ext": ".png",
+      "size_bytes": 13117,
+      "size_mb": 0.01,
+      "dims": [
+        102,
+        60
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/script_story.png",
+      "file_name": "script_story.png",
+      "ext": ".png",
+      "size_bytes": 12204,
+      "size_mb": 0.01,
+      "dims": [
+        120,
+        80
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/emblem_badge.png",
+      "file_name": "emblem_badge.png",
+      "ext": ".png",
+      "size_bytes": 12103,
+      "size_mb": 0.01,
+      "dims": [
+        100,
+        100
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/suites_thumb1.png",
+      "file_name": "suites_thumb1.png",
+      "ext": ".png",
+      "size_bytes": 11636,
+      "size_mb": 0.01,
+      "dims": [
+        102,
+        60
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/suites_thumb2.png",
+      "file_name": "suites_thumb2.png",
+      "ext": ".png",
+      "size_bytes": 10826,
+      "size_mb": 0.01,
+      "dims": [
+        102,
+        60
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/reel_2.png",
+      "file_name": "reel_2.png",
+      "ext": ".png",
+      "size_bytes": 10364,
+      "size_mb": 0.01,
+      "dims": [
+        54,
+        90
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/reel_6.png",
+      "file_name": "reel_6.png",
+      "ext": ".png",
+      "size_bytes": 9500,
+      "size_mb": 0.01,
+      "dims": [
+        54,
+        90
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/reel_1.png",
+      "file_name": "reel_1.png",
+      "ext": ".png",
+      "size_bytes": 9089,
+      "size_mb": 0.01,
+      "dims": [
+        54,
+        90
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/reel_5.png",
+      "file_name": "reel_5.png",
+      "ext": ".png",
+      "size_bytes": 8603,
+      "size_mb": 0.01,
+      "dims": [
+        54,
+        90
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/ugc_3.png",
+      "file_name": "ugc_3.png",
+      "ext": ".png",
+      "size_bytes": 8513,
+      "size_mb": 0.01,
+      "dims": [
+        54,
+        95
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/ugc_2.png",
+      "file_name": "ugc_2.png",
+      "ext": ".png",
+      "size_bytes": 8477,
+      "size_mb": 0.01,
+      "dims": [
+        54,
+        95
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/reel_4.png",
+      "file_name": "reel_4.png",
+      "ext": ".png",
+      "size_bytes": 7866,
+      "size_mb": 0.01,
+      "dims": [
+        54,
+        90
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/ugc_5.png",
+      "file_name": "ugc_5.png",
+      "ext": ".png",
+      "size_bytes": 7778,
+      "size_mb": 0.01,
+      "dims": [
+        54,
+        95
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/reel_3.png",
+      "file_name": "reel_3.png",
+      "ext": ".png",
+      "size_bytes": 7738,
+      "size_mb": 0.01,
+      "dims": [
+        54,
+        90
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/ugc_4.png",
+      "file_name": "ugc_4.png",
+      "ext": ".png",
+      "size_bytes": 7029,
+      "size_mb": 0.01,
+      "dims": [
+        54,
+        95
+      ],
+      "is_referenced": false
+    },
+    {
+      "rel_path": "assets/images/ugc_1.png",
+      "file_name": "ugc_1.png",
+      "ext": ".png",
+      "size_bytes": 6949,
+      "size_mb": 0.01,
+      "dims": [
+        54,
+        95
+      ],
+      "is_referenced": false
+    }
+  ]
+}
