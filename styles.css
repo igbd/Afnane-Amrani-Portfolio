@@ -5288,8 +5288,10 @@ section#statsBar.stats-bar-section {
   }
 
   .editorial-bts-spread {
-    grid-template-columns: 1fr 1fr;
-    gap: 12px;
+    grid-template-columns: 1fr;
+    gap: 24px;
+    max-width: 480px;
+    margin: 24px auto 36px auto;
   }
 
   .case-metrics-bar {
@@ -6407,6 +6409,32 @@ section#statsBar.stats-bar-section {
 
   .influencer-showcase-title-area {
     min-width: 0;
+  }
+
+  .editorial-bts-spread {
+    grid-template-columns: 1fr;
+    gap: 24px;
+    max-width: 420px;
+    margin: 20px auto 36px auto;
+  }
+
+  .bts-photo-card {
+    width: 100%;
+    border-radius: 16px;
+  }
+
+  .bts-photo-caption {
+    padding: 16px 18px 20px 18px;
+  }
+
+  .bts-caption-title {
+    font-size: 1.05rem;
+    margin-bottom: 6px;
+  }
+
+  .bts-caption-text {
+    font-size: 0.82rem;
+    line-height: 1.5;
   }
 
   .tamazing-archive-bar {
