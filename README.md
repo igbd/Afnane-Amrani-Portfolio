@@ -45,7 +45,8 @@ python3 -m http.server 8080
 ```
 
 Open your browser and navigate to:
-```
+
+```text
 http://localhost:8080/
 ```
 
@@ -53,7 +54,7 @@ http://localhost:8080/
 
 ## 📁 Repository Structure
 
-```
+```text
 .
 ├── index.html                   # Core single-page portfolio application
 ├── styles.css                   # Complete design system & custom styles

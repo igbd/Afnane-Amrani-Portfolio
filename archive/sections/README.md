@@ -2,7 +2,7 @@
 
 This directory contains standalone sections that have been archived from `index.html`.
 
-## Archived Sections
+## Section Catalog
 
 1. **Storytelling Projects** ([`section_09_storytelling_projects.html`](./section_09_storytelling_projects.html))
    - Section ID: `#storytelling`
