@@ -604,6 +604,24 @@ function initMobileMenu() {
       toggle.setAttribute('aria-expanded', 'false');
     });
   });
+
+  // Close menu when clicking outside
+  document.addEventListener('click', (e) => {
+    if (nav.classList.contains('mobile-open') && !nav.contains(e.target) && !toggle.contains(e.target)) {
+      nav.classList.remove('mobile-open');
+      toggle.classList.remove('active');
+      toggle.setAttribute('aria-expanded', 'false');
+    }
+  });
+
+  // Close menu on Escape key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && nav.classList.contains('mobile-open')) {
+      nav.classList.remove('mobile-open');
+      toggle.classList.remove('active');
+      toggle.setAttribute('aria-expanded', 'false');
+    }
+  });
 }
 
 /* --------------------------------------------------------------------------
