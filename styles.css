@@ -453,6 +453,16 @@ section[id] {
   transform: translateY(3px);
 }
 
+.btn-text-desktop {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+}
+
+.nav-section-mobile {
+  display: none;
+}
+
 /* Mobile Menu Toggle */
 .mobile-toggle {
   display: none;
@@ -6220,6 +6230,40 @@ section#statsBar.stats-bar-section {
     padding: 5px 6px 5px 6px;
   }
 
+  .btn-text-desktop {
+    display: none !important;
+  }
+
+  .nav-section-mobile {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    font-size: 0.88rem;
+    color: #FFFFFF;
+    transition: opacity 0.2s cubic-bezier(0.16, 1, 0.3, 1), transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  .nav-section-mobile.changing {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+
+  .btn-nav-connect {
+    padding: 8px 18px;
+    font-size: 0.88rem;
+    min-width: 104px;
+    max-width: 170px;
+    justify-content: center;
+    height: 38px;
+    box-sizing: border-box;
+    box-shadow: 0 4px 14px rgba(74, 21, 33, 0.22);
+    cursor: pointer;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+
   .nav-menu {
     display: none;
   }
@@ -6231,12 +6275,10 @@ section#statsBar.stats-bar-section {
     left: 0;
     right: 0;
     width: 100%;
-    background: rgba(255, 255, 255, 0.98);
-    backdrop-filter: blur(20px);
-    -webkit-backdrop-filter: blur(20px);
-    border: 1px solid rgba(20, 20, 20, 0.08);
+    background: #FFFFFF;
+    border: 1px solid rgba(20, 20, 20, 0.09);
     border-radius: 24px;
-    box-shadow: 0 16px 40px rgba(0, 0, 0, 0.12);
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.18), 0 4px 12px rgba(0, 0, 0, 0.05);
     padding: 20px 24px;
     flex-direction: column;
     align-items: center;
@@ -6505,5 +6547,14 @@ section#statsBar.stats-bar-section {
   }
   .testi-quote-text {
     font-size: 0.95rem;
+  }
+  .btn-nav-connect {
+    padding: 7px 14px;
+    min-width: 86px;
+    max-width: 130px;
+    height: 36px;
+  }
+  .nav-section-mobile {
+    font-size: 0.80rem;
   }
 }

@@ -588,13 +588,25 @@ function initScrollReveals() {
 function initMobileMenu() {
   const toggle = document.querySelector('.mobile-toggle');
   const nav = document.querySelector('.nav-menu');
+  const btnNavConnect = document.getElementById('btnNavConnect');
   if (!toggle || !nav) return;
 
-  toggle.addEventListener('click', () => {
+  function toggleMenu(e) {
+    if (e) e.preventDefault();
     const isOpen = nav.classList.toggle('mobile-open');
     toggle.classList.toggle('active');
     toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
-  });
+  }
+
+  toggle.addEventListener('click', toggleMenu);
+
+  if (btnNavConnect) {
+    btnNavConnect.addEventListener('click', (e) => {
+      if (window.innerWidth <= 992) {
+        toggleMenu(e);
+      }
+    });
+  }
 
   const links = nav.querySelectorAll('a');
   links.forEach((link) => {
@@ -607,7 +619,12 @@ function initMobileMenu() {
 
   // Close menu when clicking outside
   document.addEventListener('click', (e) => {
-    if (nav.classList.contains('mobile-open') && !nav.contains(e.target) && !toggle.contains(e.target)) {
+    if (
+      nav.classList.contains('mobile-open') &&
+      !nav.contains(e.target) &&
+      !toggle.contains(e.target) &&
+      (!btnNavConnect || !btnNavConnect.contains(e.target))
+    ) {
       nav.classList.remove('mobile-open');
       toggle.classList.remove('active');
       toggle.setAttribute('aria-expanded', 'false');
@@ -699,52 +716,97 @@ function initApproachRadial() {
    11. Active Navigation Item Indicator (ScrollSpy)
    -------------------------------------------------------------------------- */
 function initScrollSpy() {
-  const sections = [
-    { id: 'about', link: document.querySelector('.nav-menu a[href="#about"]') },
-    { id: 'approach', link: document.querySelector('.nav-menu a[href="#approach"]') },
-    { id: 'brands', link: document.querySelector('.nav-menu a[href="#brands"]') },
-    { id: 'testimonials', link: document.querySelector('.nav-menu a[href="#testimonials"]') },
+  const mobileIndicator = document.getElementById('navSectionMobile');
+  const desktopLinks = document.querySelectorAll('.nav-menu .nav-link');
+
+  const sectionConfigs = [
+    { id: 'hero', name: 'Home', navHref: '#hero' },
+    { id: 'about', name: 'About', navHref: '#about' },
+    { id: 'statsBar', name: 'About', navHref: '#about' },
+    { id: 'journey', name: 'About', navHref: '#about' },
+    { id: 'approach', name: 'Approach', navHref: '#approach' },
+    { id: 'brands', name: 'Work', navHref: '#brands' },
+    { id: 'influencer', name: 'Work', navHref: '#brands' },
+    { id: 'testimonials', name: 'Testimonials', navHref: '#testimonials' },
+    { id: 'recommendations', name: 'Testimonials', navHref: '#testimonials' },
+    { id: 'contact', name: 'Contact', navHref: '#contact' }
   ];
 
-  function updateActiveLink() {
-    if (window.scrollY < 250) {
-      sections.forEach(({ link }) => link && link.classList.remove('active'));
-      return;
-    }
+  let currentActiveName = '';
 
-    const isBottom = (window.innerHeight + window.scrollY) >= (document.documentElement.scrollHeight - 140);
-    if (isBottom) {
-      sections.forEach(({ link }) => link && link.classList.remove('active'));
-      return;
-    }
+  function setIndicatorText(newName) {
+    if (!mobileIndicator) return;
+    if (currentActiveName === newName) return;
+    currentActiveName = newName;
 
-    const scrollThreshold = window.scrollY + 220;
-    let currentId = '';
+    mobileIndicator.classList.add('changing');
+    setTimeout(() => {
+      mobileIndicator.textContent = newName;
+      mobileIndicator.classList.remove('changing');
+    }, 110);
+  }
 
-    for (let i = sections.length - 1; i >= 0; i--) {
-      const el = document.getElementById(sections[i].id);
-      if (el && el.offsetTop <= scrollThreshold) {
-        currentId = sections[i].id;
-        break;
-      }
-    }
-
-    sections.forEach(({ id, link }) => {
-      if (link) {
-        if (id === currentId) {
-          link.classList.add('active');
-        } else {
-          link.classList.remove('active');
-        }
+  function setActiveDesktopLink(targetHref) {
+    desktopLinks.forEach(link => {
+      if (link.getAttribute('href') === targetHref) {
+        link.classList.add('active');
+      } else {
+        link.classList.remove('active');
       }
     });
   }
 
+  function updateActive() {
+    const scrollY = window.scrollY;
+    const windowH = window.innerHeight;
+    const docH = document.documentElement.scrollHeight;
+
+    // 1. At very top of page -> Home
+    if (scrollY < 120) {
+      setIndicatorText('Home');
+      setActiveDesktopLink('#hero');
+      return;
+    }
+
+    // 2. Near bottom of page -> Contact
+    if ((windowH + scrollY) >= (docH - 90)) {
+      setIndicatorText('Contact');
+      setActiveDesktopLink('#contact');
+      return;
+    }
+
+    // 3. Focal point for section detection (35% down viewport)
+    const focalY = scrollY + windowH * 0.35;
+
+    let activeConfig = sectionConfigs[0];
+    for (let i = 0; i < sectionConfigs.length; i++) {
+      const el = document.getElementById(sectionConfigs[i].id);
+      if (el) {
+        const rect = el.getBoundingClientRect();
+        const elTop = rect.top + scrollY;
+        if (focalY >= elTop) {
+          activeConfig = sectionConfigs[i];
+        }
+      }
+    }
+
+    setIndicatorText(activeConfig.name);
+    setActiveDesktopLink(activeConfig.navHref);
+  }
+
+  let isTicking = false;
   window.addEventListener('scroll', () => {
-    requestAnimationFrame(updateActiveLink);
+    if (!isTicking) {
+      window.requestAnimationFrame(() => {
+        updateActive();
+        isTicking = false;
+      });
+      isTicking = true;
+    }
   }, { passive: true });
 
-  updateActiveLink();
+  window.addEventListener('resize', updateActive, { passive: true });
+  updateActive();
 }
 
 /* --------------------------------------------------------------------------
